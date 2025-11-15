@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Xtreme Codes M3U Converter",
+  "description": "A utility to convert Xtreme Codes credentials (server URL, username, and password) into a usable M3U playlist link for IPTV players.",
+  "requestFramePermissions": []
+}
